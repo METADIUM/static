@@ -1,0 +1,44 @@
+{
+  "update": {
+    "Android": {
+      "idx": 0,
+      "type": "warning",
+      "minVersion": "1.0.0",
+      "currentVersion": "1.0.0",
+      "msg": {
+        "en": "Update",
+        "ko": "업데이트"
+      },
+      "url": {
+        "en": "https://playgoogle",
+        "ko": "https://playgoogle"
+      }
+    },
+    "iOS": {
+      "idx": 1,
+      "type": "warning",
+      "minVersion": "1.0.0",
+      "currentVersion": "1.0.0",
+      "msg": {
+        "en": "Update",
+        "ko": "업데이트"
+      },
+      "url": {
+        "en": "https://appstore",
+        "ko": "https://appstore"
+      }
+    }
+  },
+  "general": {
+    "idx": 2,
+    "type": "info",
+    "msg": {
+      "en": "Update",
+      "ko": "업데이트"
+    },
+    "url": {
+      "en": "https://google.com",
+      "ko": ""
+    }
+  }
+}
