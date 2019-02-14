@@ -6,12 +6,12 @@
       "minVersion": "1.0.0",
       "currentVersion": "1.0.0",
       "msg": {
-        "en": "Update",
-        "ko": "업데이트"
+        "en": "",
+        "ko": ""
       },
       "url": {
-        "en": "https://playgoogle",
-        "ko": "https://playgoogle"
+        "en": "",
+        "ko": ""
       }
     },
     "iOS": {
@@ -20,25 +20,25 @@
       "minVersion": "1.0.0",
       "currentVersion": "1.0.0",
       "msg": {
-        "en": "Update",
-        "ko": "업데이트"
+        "en": "",
+        "ko": ""
       },
       "url": {
-        "en": "https://appstore",
-        "ko": "https://appstore"
+        "en": "",
+        "ko": ""
       }
     }
   },
   "general": {
-    "idx": 3,
-    "type": "info",
+    "idx": 0,
+    "type": "",
     "msg": {
-      "en": "Update2",
-      "ko": "업데이트2"
+      "en": "",
+      "ko": ""
     },
     "url": {
-      "en": "https://naver.com",
-      "ko": "https://naver.com"
+      "en": "",
+      "ko": ""
     }
   }
 }
