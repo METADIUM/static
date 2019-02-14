@@ -30,15 +30,15 @@
     }
   },
   "general": {
-    "idx": 4,
+    "idx": 5,
     "type": "info",
     "msg": {
-      "en": "*Token Freeze*\n\nKind reminder that token freeze is scheduled for 11:59:59 AM KST on February 22, 2019.",
-      "ko": "*토큰 동결*\n\n토큰동결은 한국표준시간으로 2019년 2월 22일 오전 11시 59분59초에 예정되어 있음을 알려드립니다."
+      "en": "",
+      "ko": ""
     },
     "url": {
-      "en": "https://medium.com/metadium/metadium-protocols-token-swap-timeline-94d33628be8a",
-      "ko": "https://medium.com/metadium/metadium-protocols-token-swap-timeline-94d33628be8a"
+      "en": "",
+      "ko": ""
     }
   }
 }
