@@ -1,13 +1,13 @@
 {
   "update": {
     "Android": {
-      "idx": 0,
+      "idx": 1,
       "type": "warning",
       "minVersion": "1.0.0",
-      "currentVersion": "1.0.0",
+      "currentVersion": "1.1.0",
       "msg": {
-        "en": "",
-        "ko": ""
+        "en": "Update 1.1.0\n\nGo PlayStroe",
+        "ko": "업데이트 1.1.0\n\nPlayStore에서 업데이트하세요"
       },
       "url": {
         "en": "market://details?id=com.coinplug.metadium",
@@ -18,10 +18,10 @@
       "idx": 1,
       "type": "warning",
       "minVersion": "1.0.0",
-      "currentVersion": "1.0.0",
+      "currentVersion": "1.1.0",
       "msg": {
-        "en": "",
-        "ko": ""
+        "en": "Update 1.1.0\n\nGo AppStroe",
+        "ko": "업데이트 1.1.0\n\nAppStore에서 업데이트하세요"
       },
       "url": {
         "en": "",
@@ -30,11 +30,11 @@
     }
   },
   "general": {
-    "idx": 2,
+    "idx": 3,
     "type": "info",
     "msg": {
-      "en": "*Metadium Airdrop*\n\nTo celebrate the release of Keepin, Metadium is announcing an airdrop. Join and win a share of 1 500 000 META.",
-      "ko": "*메타디움 에어드롭*\n\n키핀 출시를 기념해서 메타디움은 에어드롭을 발표할 예정입니다. 참여하시고 1,500,000 META의 지분을 받으세요."
+      "en": "",
+      "ko": ""
     },
     "url": {
       "en": "",
