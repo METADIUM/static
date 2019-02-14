@@ -3,7 +3,7 @@
     "Android": {
       "idx": 1,
       "type": "warning",
-      "minVersion": "1.0.0",
+      "minVersion": "1.1.0",
       "currentVersion": "1.1.0",
       "msg": {
         "en": "Update 1.1.0\n\nGo PlayStroe",
@@ -17,7 +17,7 @@
     "iOS": {
       "idx": 1,
       "type": "warning",
-      "minVersion": "1.0.0",
+      "minVersion": "1.1.0",
       "currentVersion": "1.1.0",
       "msg": {
         "en": "Update 1.1.0\n\nGo AppStroe",
