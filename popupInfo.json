@@ -30,15 +30,15 @@
     }
   },
   "general": {
-    "idx": 2,
+    "idx": 3,
     "type": "info",
     "msg": {
-      "en": "Update",
-      "ko": "업데이트"
+      "en": "Update2",
+      "ko": "업데이트2"
     },
     "url": {
-      "en": "https://google.com",
-      "ko": ""
+      "en": "https://naver.com",
+      "ko": "https://naver.com"
     }
   }
 }
