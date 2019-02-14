@@ -10,8 +10,8 @@
         "ko": ""
       },
       "url": {
-        "en": "",
-        "ko": ""
+        "en": "market://details?id=com.coinplug.metadium",
+        "ko": "market://details?id=com.coinplug.metadium"
       }
     },
     "iOS": {
@@ -30,15 +30,15 @@
     }
   },
   "general": {
-    "idx": 1,
+    "idx": 2,
     "type": "info",
     "msg": {
-      "en": "*Token Freeze*\n\nKind reminder that token freeze is scheduled for 11:59:59 AM KST on February 22, 2019.",
-      "ko": "*토큰 동결*\n\n토큰동결은 한국표준시간으로 2019년 2월 22일 오전 11시 59분59초에 예정되어 있음을 알려드립니다."
+      "en": "*Metadium Airdrop*\n\nTo celebrate the release of Keepin, Metadium is announcing an airdrop. Join and win a share of 1 500 000 META.",
+      "ko": "*메타디움 에어드롭*\n\n키핀 출시를 기념해서 메타디움은 에어드롭을 발표할 예정입니다. 참여하시고 1,500,000 META의 지분을 받으세요."
     },
     "url": {
-      "en": "https://medium.com/metadium/metadium-protocols-token-swap-timeline-94d33628be8a",
-      "ko": "https://medium.com/metadium/metadium-protocols-token-swap-timeline-94d33628be8a"
+      "en": "",
+      "ko": ""
     }
   }
 }
