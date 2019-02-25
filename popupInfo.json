@@ -30,15 +30,15 @@
     }
   },
   "general": {
-    "idx": 6,
+    "idx": 7,
     "type": "info",
     "msg": {
-      "en": "*Metadium Airdrop*\n\nTo celebrate the release of Keepin, Metadium is announcing an airdrop. Join and win a share of 1 500 000 META.",
-      "ko": "*META 에어드랍 이벤트*\n\n키핀 출시를 기념하여 META 에어드랍 이벤트를 진행합니다! 이벤트에 참여하신 분들께는 총 1,500,000 META를 경품으로 드립니다."
+      "en": "*Mainnet Launch*\n\nMetadium’s Mainnet will officially launch on February 28, 2019 — four months ahead of schedule!",
+      "ko": "*메인넷 출시*\n\n메타디움의 메인넷은 공지 되었던 로드맵보다 4개월 빠른 2019년 2월 28일에 공식 출시될 예정입니다."
     },
     "url": {
-      "en": "https://metadium.com/event/keepin-airdrop",
-      "ko": "https://metadium.com/kr/event/keepin-airdrop"
+      "en": "https://medium.com/metadium/metadium-protocols-token-swap-timeline-94d33628be8a",
+      "ko": "https://brunch.co.kr/@metadium/61"
     }
   }
 }
