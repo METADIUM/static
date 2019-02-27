@@ -6,8 +6,8 @@
       "minVersion": "1.0.0",
       "currentVersion": "1.0.0",
       "msg": {
-        "en": "Update 1.1.0\n\nGo PlayStroe",
-        "ko": "업데이트 1.1.0\n\nPlayStore에서 업데이트하세요"
+        "en": "To connect with Metadium Mainnet, please update Keepin to the latest version. Update is required to fully experience Metadium Mainnet.",
+        "ko": "메타디움 메인넷 연동을 위해 앱을 최신 버전으로 업데이트하세요. 앱 업데이트 이후 메인넷 기능을 활용할 수 있습니다."
       },
       "url": {
         "en": "market://details?id=com.coinplug.metadium",
@@ -20,12 +20,12 @@
       "minVersion": "1.0.0",
       "currentVersion": "1.0.0",
       "msg": {
-        "en": "Update 1.1.0\n\nGo AppStroe",
-        "ko": "업데이트 1.1.0\n\nAppStore에서 업데이트하세요"
+        "en": "To connect with Metadium Mainnet, please update Keepin to the latest version. Update is required to fully experience Metadium Mainnet.",
+        "ko": "메타디움 메인넷 연동을 위해 앱을 최신 버전으로 업데이트하세요. 앱 업데이트 이후 메인넷 기능을 활용할 수 있습니다."
       },
       "url": {
-        "en": "",
-        "ko": ""
+        "en": "https://itunes.apple.com/app//id1452993752?mt=8",
+        "ko": "https://itunes.apple.com/kr/app//id1452993752?mt=8"
       }
     }
   },
