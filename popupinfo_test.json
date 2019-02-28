@@ -1,0 +1,44 @@
+{
+  "update": {
+    "Android": {
+      "idx": 1,
+      "type": "warning",
+      "minVersion": "0.9.0",
+      "currentVersion": "1.0.0",
+      "msg": {
+        "en": "Keepin has been updated to connect with Metadium Mainnet.  Update is required to fully experience Metadium Mainnet.\n\n\n* Prior to the update, please take a memo of your Recovery Code(Mnemonic) and Private Key.\nRecovery Code(Mnemonic) can be found at [SETTING] > [Recovery Information] > [Mnemonic] or [Private Key]",
+        "ko": "메인넷 연동을 위한 앱 최신 업데이트가 있습니다. 앱 업데이트 이후에만 메인넷 기능을 활용할 수 있습니다.\n\n\n* 앱 업데이트 전 복구 코드(Mnemonic)와 프라이빗 키를 메모 해두셨는지 꼭 다시 한 번 확인해주세요.\n복구 코드는 [업데이트 팝업 취소] > [SETTING] > [복구 정보 확인] > [Mnemonic] 혹은 [Private Key] 에서 확인하실 수 있습니다."
+      },
+      "url": {
+        "en": "market://details?id=com.coinplug.metadium",
+        "ko": "market://details?id=com.coinplug.metadium"
+      }
+    },
+    "iOS": {
+      "idx": 1,
+      "type": "warning",
+      "minVersion": "0.9.0",
+      "currentVersion": "1.0.0",
+      "msg": {
+        "en": "Keepin has been updated to connect with Metadium Mainnet.  Update is required to fully experience Metadium Mainnet.\n\n\n* Prior to the update, please take a memo of your Recovery Code(Mnemonic) and Private Key.\nRecovery Code(Mnemonic) can be found at [SETTING] > [Recovery Information] > [Mnemonic] or [Private Key]",
+        "ko": "메인넷 연동을 위한 앱 최신 업데이트가 있습니다. 앱 업데이트 이후에만 메인넷 기능을 활용할 수 있습니다.\n\n\n* 앱 업데이트 전 복구 코드(Mnemonic)와 프라이빗 키를 메모 해두셨는지 꼭 다시 한 번 확인해주세요.\n복구 코드는 [업데이트 팝업 취소] > [SETTING] > [복구 정보 확인] > [Mnemonic] 혹은 [Private Key] 에서 확인하실 수 있습니다."
+      },
+      "url": {
+        "en": "https://itunes.apple.com/app//id1452993752?mt=8",
+        "ko": "https://itunes.apple.com/kr/app//id1452993752?mt=8"
+      }
+    }
+  },
+  "general": {
+    "idx": 8,
+    "type": "info",
+    "msg": {
+      "en": "* Metadium Airdrop *\n\nTo celebrate the release of Keepin, Metadium is announcing an airdrop. Join and win a share of 1 500 000 META.",
+      "ko": "* META 에어드랍 이벤트 *\n\n키핀 출시를 기념하여 META 에어드랍 이벤트를 진행합니다! 이벤트에 참여하신 분들께는 총 1,500,000 META를 경품으로 드립니다."
+    },
+    "url": {
+      "en": "https://metadium.com/event/keepin-airdrop",
+      "ko": "https://metadium.com/kr/event/keepin-airdrop"
+    }
+  }
+}
