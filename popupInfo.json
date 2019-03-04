@@ -30,15 +30,15 @@
     }
   },
   "general": {
-    "idx": 8,
+    "idx": 9,
     "type": "info",
     "msg": {
-      "en": "* Metadium Airdrop *\n\nTo celebrate the release of Keepin, Metadium is announcing an airdrop. Join and win a share of 1 500 000 META.",
-      "ko": "* META 에어드랍 이벤트 *\n\n키핀 출시를 기념하여 META 에어드랍 이벤트를 진행합니다! 이벤트에 참여하신 분들께는 총 1,500,000 META를 경품으로 드립니다."
+      "en": "\n*Have you noted the recovery code?*\n\nPlease make sure you keep your recovery code(Mnemonic) and private key for recovering your keepin META wallet. If you forget your recovery code, you will not be able to recover your keepin wallet.\nRecovery Code can be found at [SETTING] > [Recovery Info] > [Mnemonic] or [Private Key]",
+      "ko": "\n*복구 코드는 메모해두셨나요?*\n\n복구코드(Mnemonic)와 프라이빗 키를 잘 보관해두셨는지 꼭 확인해주세요. 복구코드를 잊어버린 경우 키핀 지갑을 다시 복구하실 수 없습니다.\n복구 코드는 [SETTING]에서 [복구정보확인] > [Mneomonic] 혹은 [Private Key]에서 확인하실 수 있습니다."
     },
     "url": {
-      "en": "https://metadium.com/event/keepin-airdrop",
-      "ko": "https://metadium.com/kr/event/keepin-airdrop"
+      "en": "",
+      "ko": ""
     }
   }
 }
