@@ -33,8 +33,8 @@
     "idx": 9,
     "type": "info",
     "msg": {
-      "en": "\n*Have you noted the recovery code?*\n\nPlease make sure you keep your recovery code(Mnemonic) and private key for recovering your keepin META wallet. If you forget your recovery code, you will not be able to recover your keepin wallet.\nRecovery Code can be found at [SETTING] > [Recovery Info] > [Mnemonic] or [Private Key]",
-      "ko": "\n*복구 코드는 메모해두셨나요?*\n\n복구코드(Mnemonic)와 프라이빗 키를 잘 보관해두셨는지 꼭 확인해주세요. 복구코드를 잊어버린 경우 키핀 지갑을 다시 복구하실 수 없습니다.\n복구 코드는 [SETTING]에서 [복구정보확인] > [Mneomonic] 혹은 [Private Key]에서 확인하실 수 있습니다."
+      "en": "\n*Have you noted the recovery code?*\n\nPlease make sure you keep your recovery code(Mnemonic) and private key for recovering your keepin META wallet. If you forget your recovery code, you will not be able to recover your keepin wallet.\n\nRecovery Code can be found at [SETTING] > [Recovery Info] > [Mnemonic] or [Private Key]\n",
+      "ko": "\n*복구 코드는 메모해두셨나요?*\n\n복구코드(Mnemonic)와 프라이빗 키를 잘 보관해두셨는지 꼭 확인해주세요. 복구코드를 잊어버린 경우 키핀 지갑을 다시 복구하실 수 없습니다.\n복구 코드는 [SETTING]에서 [복구정보확인] > [Mneomonic] 혹은 [Private Key]에서 확인하실 수 있습니다.\n"
     },
     "url": {
       "en": "",
