@@ -4,11 +4,10 @@
       "idx": 1,
       "type": "warning",
       "minVersion": "1.0.0",
-      "currentVersion": "1.0.1",
+      "currentVersion": "1.0.2",
       "msg": {
-        "en": "\nLatest Update\n\nPlease update the Keepin App to the latest version. We have fixed some bugs and enhanced the usability\n\n* Prior to the update, please take a memo of your Recovery Code(Mnemonic) & Private Key.\n** Recovery Code can be found at [SETTING] > [Recovery Info] > [Mnemonic] or [Private Key]\n",
-        "ko": "\n업데이트 안내\n\n최적의 Keepin 앱을 이용하려면 최신 버전의 앱으로 업그레이드 하세요. 사용성을 개선하고 몇 가지 버그를 수정하였습니다.\n\n* 복구 코드를 보관해두세요!\n업데이트 전 복구코드(Mnemonic)와 프라이빗 키를 저장해두셨는지 한 번 더 점검해주세요.\n** 복구 코드는 [SETTING]에서 [복구정보확인] > [Mneomonic] 혹은 [Private Key]에서 확인하실 수 있습니다.\n"
-      },
+        "en": "\nUpdate Notice\n\nProceed update for enhanced usability of Keepin App.\n\nBackup recovery code before update! Wallet can't be recovered without\nRecovery code(Mnemonic) or Private Key.\n\n* Recovery code can be found at [SETTING] > [Recovery Information] > [Mnemonic] or [Private Key]\n",
+        "ko": "\n업데이트 안내 \n\n사용성을 개선한 신규 버전이 있습니다. 최적의 Keepin앱을 이용하시려면, 앱을 업그레이드하세요\n\n업데이트 전 복구코드를 백업해 두세요! 복구코드(Mnemonic) 혹은 프라이빗 키가 없는 경우 지갑을 복구하실 수 없습니다.\n\n* 복구코드는 [SETTING]에서 [복구정보확인] >[Mnoemonic] 혹은 [Private Key]에서 확인하실 수 있습니다.\n"      },
       "url": {
         "en": "market://details?id=com.coinplug.metadium",
         "ko": "market://details?id=com.coinplug.metadium"
@@ -18,11 +17,11 @@
       "idx": 1,
       "type": "warning",
       "minVersion": "1.0.0",
-      "currentVersion": "1.0.0",
+      "currentVersion": "1.0.2",
       "msg": {
-        "en": "To connect with Metadium Mainnet, please update Keepin to the latest version. Update is required to fully experience Metadium Mainnet.",
-        "ko": "메타디움 메인넷 연동을 위해 앱을 최신 버전으로 업데이트하세요. 앱 업데이트 이후 메인넷 기능을 활용할 수 있습니다."
-      },
+      "msg": {
+        "en": "Update Notice\n\nProceed update for enhanced usability of Keepin App.\n\nBackup recovery code before update! Wallet can't be recovered without\nRecovery code(Mnemonic) or Private Key.\n\n* Recovery code can be found at [SETTING] > [Recovery Information] > [Mnemonic] or [Private Key]",
+        "ko": "업데이트 안내 \n\n사용성을 개선한 신규 버전이 있습니다. 최적의 Keepin앱을 이용하시려면, 앱을 업그레이드하세요\n\n업데이트 전 복구코드를 백업해 두세요! 복구코드(Mnemonic) 혹은 프라이빗 키가 없는 경우 지갑을 복구하실 수 없습니다.\n\n* 복구코드는 [SETTING]에서 [복구정보확인] >[Mnoemonic] 혹은 [Private Key]에서 확인하실 수 있습니다."      },
       "url": {
         "en": "https://itunes.apple.com/app//id1452993752?mt=8",
         "ko": "https://itunes.apple.com/kr/app//id1452993752?mt=8"
