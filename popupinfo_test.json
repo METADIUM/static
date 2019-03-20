@@ -4,10 +4,10 @@
       "idx": 1,
       "type": "warning",
       "minVersion": "1.0.0",
-      "currentVersion": "1.0.3",
+      "currentVersion": "1.1.0",
       "msg": {
-        "en": "\nUpdate Notice\n\nProceed update for enhanced usability of Keepin App.\n\nBackup recovery code before update! Wallet can't be recovered without\nRecovery code(Mnemonic) or Private Key.\n\n* Recovery code can be found at [SETTING] > [Recovery Information] > [Mnemonic] or [Private Key]\n",
-        "ko": "\n업데이트 안내 \n\n사용성을 개선한 신규 버전이 있습니다. 최적의 Keepin앱을 이용하시려면, 앱을 업그레이드하세요\n\n업데이트 전 복구코드를 백업해 두세요! 복구코드(Mnemonic) 혹은 프라이빗 키가 없는 경우 지갑을 복구하실 수 없습니다.\n\n* 복구코드는 [SETTING]에서 [복구정보확인] >[Mnoemonic] 혹은 [Private Key]에서 확인하실 수 있습니다.\n"
+        "en": "\nUpdate Notice\n\nLatest update available with \"Send\" feature enabled.\n\n\"Send\" feature can only be used after updating Keepin app.\n\n",
+        "ko": "\n업데이트 안내\n\n메타디움 메인넷과 연동하여 보내기 기능을 활성화 한 신규 버전 앱이 있습니다.\n\n키핀(Keepin)앱을 업데이트하셔야만 보내기 기능을 이용하실 수 있습니다.\n\n"
       },
       "url": {
         "en": "market://details?id=com.coinplug.metadium",
@@ -18,10 +18,10 @@
       "idx": 1,
       "type": "warning",
       "minVersion": "1.0.0",
-      "currentVersion": "1.0.2",
+      "currentVersion": "1.1.0",
       "msg": {
-        "en": "Update Notice\n\nProceed update for enhanced usability of Keepin App.\n\nBackup recovery code before update! Wallet can't be recovered without\nRecovery code(Mnemonic) or Private Key.\n\n* Recovery code can be found at [SETTING] > [Recovery Information] > [Mnemonic] or [Private Key]",
-        "ko": "업데이트 안내 \n\n사용성을 개선한 신규 버전이 있습니다. 최적의 Keepin앱을 이용하시려면, 앱을 업그레이드하세요\n\n업데이트 전 복구코드를 백업해 두세요! 복구코드(Mnemonic) 혹은 프라이빗 키가 없는 경우 지갑을 복구하실 수 없습니다.\n\n* 복구코드는 [SETTING]에서 [복구정보확인] >[Mnoemonic] 혹은 [Private Key]에서 확인하실 수 있습니다."
+        "en": "Latest update available with \"Send\" feature enabled.\n\n\"Send\" feature can only be used after updating Keepin app.",
+        "ko": "메타디움 메인넷과 연동하여 보내기 기능을 활성화 한 신규 버전 앱이 있습니다.\n\n키핀(Keepin)앱을 업데이트하셔야만 보내기 기능을 이용하실 수 있습니다."
       },
       "url": {
         "en": "https://itunes.apple.com/app//id1452993752?mt=8",
