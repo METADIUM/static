@@ -18,7 +18,7 @@
       "idx": 1,
       "type": "warning",
       "minVersion": "1.0.0",
-      "currentVersion": "1.1.0",
+      "currentVersion": "1.1.2",
       "msg": {
         "en": "Latest update available with [Send] feature enabled.\n\n[Send] feature can only be used after updating Keepin app.",
         "ko": "메타디움 메인넷과 연동하여 [보내기] 기능을 활성화 한 신규 버전 앱이 있습니다.\n\n키핀(Keepin)앱을 업데이트하셔야만 [보내기] 기능을 이용하실 수 있습니다."
