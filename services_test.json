@@ -1,0 +1,14 @@
+{
+	"a0ad73f907ab3ce870db6671afb4a417a3315f03e5eca6a2b44cb1fac08d5d60":
+	{
+		"name":"CPDAX",
+		"description":"코인플러그(Coinplug) 암호화폐 거래소",
+		"icon":"https://static.intercomassets.com/avatars/2054214/square_128/852839021_26187-1526349743.jpg?1526349743",
+		"launch_url":"https://www.cpdax.com",
+		"app_id":
+		{
+			"android":"com.coinplug.cpdax",
+			"ios":"id1438610939"
+		}
+	}
+}
