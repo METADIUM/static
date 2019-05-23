@@ -20,7 +20,7 @@
 			}
 		}
 	},
-	"com.coinplug.custody"
+	"com.coinplug.custody":
 	{
 		"name":"meta SAFE",
 		"description":"코인플러그 암호화폐 자산 보장 서비스",
