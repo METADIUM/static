@@ -1,9 +1,7 @@
 {
-  "@context": [
-    "https://github.com/METADIUM/static/hub/v1"
-  ],
-  "type": "VerifiablePresentation",
-  "item": "CredentialManagerPresentation",
+  "@context": "https://github.com/METADIUM/static/hub/v1",
+  "@type": "VerifiablePresentation",
+  "item": "SchoolPresentation",
   "verifiableCredential": [{
     "type": "VerifiableCredential",
     "item": "AlumniCredential",
