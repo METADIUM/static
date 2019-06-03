@@ -1,10 +1,10 @@
 {
 	"@context": "https://github.com/METADIUM/static/hub/v1",
 	"@type": "PermissionGrant",
-  	"owner": "did:meta:12345",		      		// the identity owner (granters)’s DID
-  	"grantee": "did:meta:67890",		    	// the grantee’s DID
-  	"context": "https://schemas.org/", 			// the data schema
-  	"type": "Person", 			            	// the data type
-  	"item": "name", 			              	// the data item (optional)
-  	"allow": "-R--" 				            // allows Create, Read, Update, and Delete
+  	"owner": "did:meta:12345",		     	// the identity owner (granters)’s DID
+  	"grantee": "did:meta:67890",		   	// the grantee’s DID
+  	"context": "https://schemas.org/", 		// the data schema
+  	"type": "Person", 			     	// the data type
+  	"item": "name", 			     	// the data item (optional)
+  	"allow": "-R--" 				// allows Create, Read, Update, and Delete
 }
