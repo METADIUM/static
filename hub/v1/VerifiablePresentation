@@ -14,7 +14,7 @@
       "alumniOf": "<span lang='en'>Example University</span>"
     },
     "proof": {
-      "type": "RsaSignature2018",
+      "type": "EdDsaSASignatureSecp256k1",
       "created": "2017-06-18T21:19:10Z",
       "proofPurpose": "assertionMethod",
       "verificationMethod": "did:meta:123abc#MetaManagementKey-1",
@@ -27,7 +27,7 @@
   // digital signature by owner on the presentation
   // protects against replay attacks
   "proof": {
-    "type": "RsaSignature2018",
+    "type": "EdDsaSASignatureSecp256k1",
     "created": "2018-09-14T21:19:10Z",
     "proofPurpose": "authentication",
     "verificationMethod": "did:meta:ebfeb1f712ebc6f1c276e12ec21#keys-1",
