@@ -1,0 +1,31 @@
+[
+    {
+        "title": "What is Meta Gate?",
+        "content": 
+        "&nbsp&nbsp- Meta Gate is an admin tool to search / register / manage claim topics & achievements. Meta Gate is open to any participants of Metadium platform, but functions to register new claim topics & achievements are currently limited to registered AAs."
+    },
+    {
+        "title": "What is Claim / Achievement?",
+        "content": "<p>&nbsp&nbsp- Claim is a proof of identity attributes that improve reliability of identity data online.<br/>&nbsp&nbsp&nbsp&nbspAAs can verify the authenticity of user data on its own way, and issue claim for it upon user's request.<br/>&nbsp&nbsp&nbsp&nbsp> ex)Crypto-exchange can issue claims of their user including,<br/>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp+ User's Phone No. has been verified<br/>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp+ User's E-mail has been verified<br/>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp+ User is level 2 in certain exchange</p><p>&nbsp&nbsp- Achievement is a reward mechanism triggered by claims designed to incentivize users to onboard onto and fully experience the service.<br/>&nbsp&nbsp&nbsp&nbspIt helps to acquire valuable claims on platform.<br/>&nbsp&nbsp&nbsp&nbsp> ex) Game publisher can set up achievement for user to accomplish 100 hours of playtime and give 50 META as a reward.</p>"
+    },
+    {
+        "title": "What is Topic?",
+        "content": "&nbsp&nbsp- Topic is a pre-defined category of data required to file a claim.<br/>&nbsp&nbsp&nbsp&nbspTopic of certain data needs to be registered prior to issue a claim.<br/>&nbsp&nbsp&nbsp> ex) Topic 'User Level on Crypto-Exchange' needs to be registered for a crypto-exchange to issue claim on user level data of a user."
+    },
+    {
+        "title": "How do I register an AA?",
+        "content": "&nbsp&nbsp- In the current stage, for testnet, AA can only be registered by Metadium.<br/>&nbsp&nbsp&nbsp&nbspPlease contact Metadium (contact@metadium.com) with request to be registered as one."
+    },
+    {
+        "title": "How do I add a Topic?",
+        "content": "&nbsp&nbsp- Once registered as an AA, you can go to 'Topic Registry' Tab and add a new Topic.<br/>&nbsp&nbsp&nbsp&nbsp1) Go to Topic Registry Tab<br/>&nbsp&nbsp&nbsp&nbsp2) Click on Add New Topic button on top-left<br/>&nbsp&nbsp&nbsp&nbsp3) Input Title / Explanation (max. 32bytes)<br/>&nbsp&nbsp&nbsp&nbsp4) Click on Add button<br/>&nbsp&nbsp&nbsp&nbsp5) Scan QR Code with Meta ID App<br/>&nbsp&nbsp&nbsp&nbsp6) Authenticate via Biometric or PIN No.<br/>&nbsp&nbsp&nbsp&nbsp7) New Topic Added<br/>&nbsp&nbsp* Adding new topic cost transaction fee. Please make sure you have enough deposit of META Token before proceed."
+    },
+    {
+        "title": "How do I add an Achievement?",
+        "content": "&nbsp&nbsp- Once registered as an AA, you can go to 'Achievement Registry' Tab and add a new Achievement.<br/>&nbsp&nbsp&nbsp&nbsp1) Go to Achievement Registry Tab<br/>&nbsp&nbsp&nbsp&nbsp2) Click on Add New Achievement button on top-left<br/>&nbsp&nbsp&nbsp&nbsp3) Input Title / Explanation (max. 32bytes) / Reward (Minimum 5 META) / Required claim topic with issuer<br/>&nbsp&nbsp&nbsp&nbsp4) Click on Add button<br/>&nbsp&nbsp&nbsp&nbsp5) Scan QR Code with Meta ID App<br/>&nbsp&nbsp&nbsp&nbsp6) Authenticate via Biometric or PIN No.<br/>&nbsp&nbsp&nbsp&nbsp7) New Achievement Added<br/>&nbsp&nbsp&nbsp&nbsp8) Charge balance of the achievement<br/>&nbsp&nbsp* Adding new achievement cost transaction fee. Please make sure you have enough deposit of META Token before proceed.<br/>&nbsp&nbsp* Achievement won't be visible for users until sufficient balance of the achievement has been charged."
+    },
+    {
+        "title": "How do I add balance to an Achievement?",
+        "content": "&nbsp&nbsp- Check the address of achievement at 'Achievement Registry' > 'Detail of Achievement'. <br/>&nbsp&nbsp&nbsp&nbspSend META to achievement address."
+    }
+]
