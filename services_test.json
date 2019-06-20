@@ -22,7 +22,7 @@
 	},
 	"com.coinplug.custody":
 	{
-		"name":"meta SAFE",
+		"name":"metaSAFE",
 		"description":"Coinplug CryptoCurrency Assurance Services",
 		"icon":"https://raw.githubusercontent.com/METADIUM/static/master/service/image/MetaSafe.png",
 		"app":
