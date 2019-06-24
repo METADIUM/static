@@ -38,5 +38,23 @@
 				"launch_uri":"metasafe"
 			}
 		}
+	},
+	"com.metadium.game.g2048":
+	{
+		"name":"2048",
+		"description":"Metadium sample game",
+		"icon":"",
+		"app":
+		{
+			"web":{
+				"launch_uri":""
+			},
+			"android":
+			{
+			},
+			"ios":
+			{
+			}
+		}
 	}
 }
