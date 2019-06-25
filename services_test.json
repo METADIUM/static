@@ -43,7 +43,7 @@
 	{
 		"name":"2048",
 		"description":"Metadium sample game",
-		"icon":"",
+		"icon":"https://raw.githubusercontent.com/METADIUM/static/master/service/image/keepin_demo.png",
 		"app":
 		{
 			"web":{
@@ -51,9 +51,13 @@
 			},
 			"android":
 			{
+				"id":"",
+				"launch_uri":""
 			},
 			"ios":
 			{
+				"id":"",
+				"launch_uri":""
 			}
 		}
 	}
