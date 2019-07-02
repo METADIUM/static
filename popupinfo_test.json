@@ -30,15 +30,15 @@
     }
   },
   "general": {
-    "idx": 8,
+    "idx": 9,
     "type": "info",
     "msg": {
-      "en": "",
-      "ko": ""
+      "en": "[For iOS] If you are about to send funds to the Bittrex Exchange, please check this announcement.",
+      "ko": "[iOS 사용자분들을 위한 공지] 혹시 비트렉스로 META를 전송하실 예정이신가요? 그렇다면 아래 안내문을 꼭 확인해 주세요."
     },
     "url": {
-      "en": "",
-      "ko": ""
+      "en": "https://www.metadium.com/bittrex-exchange-support",
+      "ko": "https://www.metadium.com/kr/bittrex-exchange-support"
     }
   }
 }
