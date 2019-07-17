@@ -1,0 +1,26 @@
+{
+  "@context": "https://github.com/METADIUM/static/tree/master/hub/v1",
+  "@type": "Person",
+
+  # 인증 가능 (VC 생성 가능) 정보
+  "Name": "홍길동",  
+  "Date_of_Birth": "1979.10.12",
+  "Gender": "male",
+  "Nationality": "Korea",
+  "Mobile_No": "821012345678",
+  "Email": "hgd@example.com",
+
+  # 인증 없이 단순히 저장되는 정보
+  "Social_Security_No": "5666666",
+  "Name_In_Eng": "Hong Gildong",
+  "Passport_No": "GK11111111",
+  "School_Name": "Harvard University",
+  "Admission_Date": "1999.03.03",
+  "StudentID": "12345678",
+  "Major": "Law",
+
+  # 추가적인 파악 및 고려가 필요한 정보
+  "AlumniOf": "Yale University",
+  "Username": "gdhong",
+  "Password": "88888888"
+}
