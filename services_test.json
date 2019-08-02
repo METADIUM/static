@@ -60,5 +60,27 @@
 				"launch_uri":""
 			}
 		}
+	},
+	"com.metadium.game.trashdash":
+	{
+		"name":"trashdash",
+		"description":"Metadium sample game",
+		"icon":"https://raw.githubusercontent.com/METADIUM/static/master/service/image/StoreIcon.png",
+		"app":
+		{
+			"web":{
+				"launch_uri":""
+			},
+			"android":
+			{
+				"id":"com.metadium.trashrunner",
+				"launch_uri":""
+			},
+			"ios":
+			{
+				"id":"",
+				"launch_uri":""
+			}
+		}
 	}
 }
