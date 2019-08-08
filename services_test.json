@@ -82,5 +82,27 @@
 				"launch_uri":""
 			}
 		}
+	},
+	"com.globalstep.test.metadium":
+	{
+		"name":"Globalstep Test",
+		"description":"Globalstep Test",
+		"icon":"",
+		"app":
+		{
+			"web":{
+				"launch_uri":""
+			},
+			"android":
+			{
+				"id":"com.globalstep.test.metadium",
+				"launch_uri":""
+			},
+			"ios":
+			{
+				"id":"",
+				"launch_uri":"kp-0000000100"
+			}
+		}
 	}
 }
