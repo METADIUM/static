@@ -87,7 +87,7 @@
 	{
 		"name":"Globalstep Test",
 		"description":"Globalstep Test",
-		"icon":"",
+		"icon":"https://raw.githubusercontent.com/METADIUM/static/master/service/image/keepin_demo.png",
 		"app":
 		{
 			"web":{
