@@ -1,6 +1,7 @@
 {
   "did:meta:testnet:00000000000000000000000000000000000000000000000000000000000003b1": {
     "name": "metadium attestation agency",
+    "version": "1.0.0",
     "description": "Support verifiable credentials: [NameCredential, DateOfBirthCredential, GenderCredential, NationalityCredential, MobileNumberCredential, EmailCredential]",
     "icon": "",
     "host": "https://testnetattestator.metadium.com"
