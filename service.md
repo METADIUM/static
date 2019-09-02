@@ -33,7 +33,7 @@
   }
 ```
 
-- presentation_name : {xxx}Presentation
+- presentation_name : {xxx}Presentation. Must unique
 - credential_name : Pre-defined credential
   - EmailCredential
   - NameCredential
