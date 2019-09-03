@@ -1,4 +1,4 @@
-## Service File*
+## Service File
 
 - Testnet Default : services_test.json  
 - Testnet ko      : service_test_ko.json  
