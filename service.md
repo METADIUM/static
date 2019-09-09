@@ -27,19 +27,21 @@
 				"launch_uri":"{ios_launch_scheme}"
 			}
 		},
+		"did":"{service_did}",
 		"vp":{
 			"{presentation_name}":["{credential_name}"]
 		}
 }
 ```
-- service_id : Unique id of service
-- name_of_service : to be shown to keepin
-- description_of_service : to be shown to keepin
-- icon_image_url_of_service : to be shown to keepin
-- web_url : to be linked in keepin
-- android_package_name : to be linked in keepin
-- apple_app_id : to store in keepin
-- ios_launch_scheme : to be linked in keepin
+- service_id : Unique id of service.
+- name_of_service : to be shown to keepin.
+- description_of_service : to be shown to keepin.
+- icon_image_url_of_service : to be shown to keepin.
+- web_url : to be linked in keepin.
+- android_package_name : to be linked in keepin.
+- apple_app_id : to store in keepin.
+- ios_launch_scheme : to be linked in keepin.
+- service_did : did of service. Need regisger Meta ID. If exists "vp", must have did
 - presentation_name : {xxx}Presentation. Must unique
 - credential_name : Pre-defined credential
   - EmailCredential
