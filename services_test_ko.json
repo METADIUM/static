@@ -104,5 +104,47 @@
 				"launch_uri":"kp-0000000100"
 			}
 		}
+	},
+	"com.metadium.game.candyCrushDemo":
+	{
+		"name":"CnadyCrushDemo",
+		"description":"CnadyCrushDemo",
+		"icon":"https://raw.githubusercontent.com/METADIUM/static/master/service/image/keepin_demo.png",
+		"app":
+		{
+			"web":
+			{
+			},
+			"android":
+			{
+				"id":"com.conplug.candycrushdemo"
+			},
+			"ios":
+			{
+				"id":"",
+				"launch_uri":""
+			}
+		}
+	},
+	"com.metadium.game.FlappyBirdDemo":
+	{
+		"name":"FlappyBird",
+		"description":"FlappyBird",
+		"icon":"https://raw.githubusercontent.com/METADIUM/static/master/service/image/keepin_demo.png",
+		"app":
+		{
+			"web":
+			{
+			},
+			"android":
+			{
+				"id":"com.coinplug.flappybird"
+			},
+			"ios":
+			{
+				"id":"",
+				"launch_uri":""
+			}
+		}
 	}
 }
