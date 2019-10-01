@@ -27,7 +27,7 @@
 				"launch_uri":"{ios_launch_scheme}"
 			}
 		},
-		"key_id":"{service_key_id}",
+		"key_id":"{key_id_of_did}",
 		"vp":{
 			"{presentation_name}":["{credential_name}"]
 		}
