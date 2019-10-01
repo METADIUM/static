@@ -42,7 +42,7 @@
 - apple_app_id : to store in keepin.
 - ios_launch_scheme : to be linked in keepin.
 - key_id : key id of did of service. Need regisger Meta ID. If exists "vp", must have did and key id. Use encrypt to save vp to IdentityHub
-- presentation_name : {xxx}Presentation. Must unique
+- presentation_name : verifiable presentation name to receive data. Must unique
 - credential_name : Pre-defined credential
   - EmailCredential
   - NameCredential
