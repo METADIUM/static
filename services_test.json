@@ -1,4 +1,87 @@
 {
+	"com.coinplug.custody":
+	{
+		"name":"metaSAFE",
+		"description":"Coinplug CryptoCurrency Assurance Services",
+		"icon":"https://raw.githubusercontent.com/METADIUM/static/master/service/image/MetaSafe.png",
+		"app":
+		{
+			"web":{},
+			"android":
+			{
+				"id":"com.coinplug.custody"
+			},
+			"ios":
+			{
+				"id":"com.coinplug.custody",
+				"launch_uri":"metasafe"
+			}
+		}
+	},
+	"com.metadium.game.trashdash":
+	{
+		"name":"trashdash",
+		"description":"Metadium sample game",
+		"icon":"https://raw.githubusercontent.com/METADIUM/static/master/service/image/StoreIcon.png",
+		"app":
+		{
+			"web":{
+				"launch_uri":""
+			},
+			"android":
+			{
+				"id":"com.metadium.trashrunner",
+				"launch_uri":""
+			},
+			"ios":
+			{
+				"id":"",
+				"launch_uri":""
+			}
+		}
+	},
+	"com.metadium.game.candyCrushDemo":
+	{
+		"name":"CnadyCrushDemo",
+		"description":"CnadyCrushDemo",
+		"icon":"https://raw.githubusercontent.com/METADIUM/static/master/service/image/match_three.png",
+		"app":
+		{
+			"web":
+			{
+			},
+			"android":
+			{
+				"id":"com.conplug.candycrushdemo"
+			},
+			"ios":
+			{
+				"id":"",
+				"launch_uri":""
+			}
+		}
+	},
+	"com.metadium.game.FlappyBirdDemo":
+	{
+		"name":"FlappyBird",
+		"description":"FlappyBird",
+		"icon":"https://raw.githubusercontent.com/METADIUM/static/master/service/image/flappybird.png",
+		"app":
+		{
+			"web":
+			{
+			},
+			"android":
+			{
+				"id":"com.coinplug.flappybird"
+			},
+			"ios":
+			{
+				"id":"",
+				"launch_uri":""
+			}
+		}
+	},
 	"a0ad73f907ab3ce870db6671afb4a417a3315f03e5eca6a2b44cb1fac08d5d60":
 	{
 		"name":"Demo",
@@ -20,25 +103,6 @@
 			}
 		}
 	},
-	"com.coinplug.custody":
-	{
-		"name":"metaSAFE",
-		"description":"Coinplug CryptoCurrency Assurance Services",
-		"icon":"https://raw.githubusercontent.com/METADIUM/static/master/service/image/MetaSafe.png",
-		"app":
-		{
-			"web":{},
-			"android":
-			{
-				"id":"com.coinplug.custody"
-			},
-			"ios":
-			{
-				"id":"com.coinplug.custody",
-				"launch_uri":"metasafe"
-			}
-		}
-	},
 	"com.metadium.game.g2048":
 	{
 		"name":"2048",
@@ -52,28 +116,6 @@
 			"android":
 			{
 				"id":"",
-				"launch_uri":""
-			},
-			"ios":
-			{
-				"id":"",
-				"launch_uri":""
-			}
-		}
-	},
-	"com.metadium.game.trashdash":
-	{
-		"name":"trashdash",
-		"description":"Metadium sample game",
-		"icon":"https://raw.githubusercontent.com/METADIUM/static/master/service/image/StoreIcon.png",
-		"app":
-		{
-			"web":{
-				"launch_uri":""
-			},
-			"android":
-			{
-				"id":"com.metadium.trashrunner",
 				"launch_uri":""
 			},
 			"ios":
@@ -102,48 +144,6 @@
 			{
 				"id":"",
 				"launch_uri":"kp-0000000100"
-			}
-		}
-	},
-	"com.metadium.game.candyCrushDemo":
-	{
-		"name":"CnadyCrushDemo",
-		"description":"CnadyCrushDemo",
-		"icon":"https://raw.githubusercontent.com/METADIUM/static/master/service/image/keepin_demo.png",
-		"app":
-		{
-			"web":
-			{
-			},
-			"android":
-			{
-				"id":"com.conplug.candycrushdemo"
-			},
-			"ios":
-			{
-				"id":"",
-				"launch_uri":""
-			}
-		}
-	},
-	"com.metadium.game.FlappyBirdDemo":
-	{
-		"name":"FlappyBird",
-		"description":"FlappyBird",
-		"icon":"https://raw.githubusercontent.com/METADIUM/static/master/service/image/keepin_demo.png",
-		"app":
-		{
-			"web":
-			{
-			},
-			"android":
-			{
-				"id":"com.coinplug.flappybird"
-			},
-			"ios":
-			{
-				"id":"",
-				"launch_uri":""
 			}
 		}
 	}
