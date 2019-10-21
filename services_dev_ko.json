@@ -21,7 +21,7 @@
 		},
 		"key_id":"did:meta:testnet:000000000000000000000000000000000000000000000000000000000000054b#MetaManagementKey#cfd31afff25b2260ea15ef59f2d5d7dfe8c13511",
 		"vp":{
-			"DemoPresentation":["NameCredential", "DateOfBirthCredential"]
+			"DemoPresentation":["NameCredential", "EmailCredential", "DateOfBirthCredential", "GenderCredential"]
 		}
 	},
 	"com.coinplug.custody":
