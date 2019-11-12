@@ -59,13 +59,13 @@
 			},
 			"android":
 			{
-				"id":"",
+				"id":"com.metadium.game.g2048",
 				"launch_uri":""
 			},
 			"ios":
 			{
-				"id":"",
-				"launch_uri":""
+				"id":"com.metadium.game.g2048",
+				"launch_uri":"g2048"
 			}
 		},
 		"key_id":"did:meta:testnet:000000000000000000000000000000000000000000000000000000000000054b#MetaManagementKey#cfd31afff25b2260ea15ef59f2d5d7dfe8c13511",
