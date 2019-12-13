@@ -31,14 +31,14 @@
   },
   "general": {
     "idx": 10,
-    "type": "info",
+    "type": "",
     "msg": {
-      "en": "[For iOS]\n\nIf you are about to send funds to the Bittrex Exchange, please check this announcement.",
-      "ko": "[iOS 사용자분들을 위한 공지]\n\n혹시 비트렉스로 META를 전송하실 예정이신가요? 그렇다면 아래 확인 버튼을 눌러 안내문을 꼭 참조해 주세요."
+      "en": "",
+      "ko": ""
     },
     "url": {
-      "en": "https://www.metadium.com/bittrex-exchange-support",
-      "ko": "https://www.metadium.com/kr/bittrex-exchange-support"
+      "en": "",
+      "ko": ""
     }
   }
 }
