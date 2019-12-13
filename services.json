@@ -8,7 +8,7 @@
 		{
 			"web":
 			{
-        			"launch_uri":"https://attendance.metadium.com/attendance"
+        			"launch_uri":"https://attendance.metadium.com"
 			},
 			"android":
 			{
