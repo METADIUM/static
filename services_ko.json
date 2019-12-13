@@ -1,8 +1,8 @@
 {
 	"kisa_attendance_event":
 	{
-		"name":"Ãâ¼®Ã¼Å© ÀÌº¥Æ®",
-		"description":"Á¦2È¸ ºí·ÏÃ¼ÀÎ ÁøÈïÁÖ°£ Ãâ¼® ÀÌº¥Æ®",
+		"name":"ì¶œì„ì²´í¬ ì´ë²¤íŠ¸",
+		"description":"ì œ2íšŒ ë¸”ë¡ì²´ì¸ ì§„í¥ì£¼ê°„ ì¶œì„ ì´ë²¤íŠ¸",
 		"icon":"https://github.com/METADIUM/static/raw/master/service/image/kisa.png",
 		"app":
 		{
