@@ -30,15 +30,15 @@
     }
   },
   "general": {
-    "idx": 10,
-    "type": "",
+    "idx": 11,
+    "type": "notice",
     "msg": {
-      "en": "",
-      "ko": ""
+      "en": "제2회 블록체인 진흥주간 출석이벤트 참석 안내를 참고해주세요.",
+      "ko": "제2회 블록체인 진흥주간 출석이벤트 참석 안내를 참고해주세요."
     },
     "url": {
-      "en": "",
-      "ko": ""
+      "en": "https://attendance.metadium.com",
+      "ko": "https://attendance.metadium.com"
     }
   }
 }
