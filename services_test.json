@@ -168,5 +168,27 @@
 				"launch_uri":"kp-0000000100"
 			}
 		}
+	},
+	"f7c5b186-41b9-11ea-ab1a-0a0f3ad235f2":
+	{
+		"name":"개발 테스트",
+		"description":"개발 테스트",
+		"icon":"https://raw.githubusercontent.com/METADIUM/static/master/service/image/keepin_demo.png",
+		"app":
+		{
+			"web":{
+				"launch_uri":""
+			},
+			"android":
+			{
+				"id":"",
+				"launch_uri":""
+			},
+			"ios":
+			{
+				"id":"",
+				"launch_uri":""
+			}
+		}
 	}
 }
