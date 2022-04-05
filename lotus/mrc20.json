@@ -1,0 +1,14 @@
+[
+  {
+    "contract": "0xe16A38E557b688422aeE8e6096A2aeeF73AC2511",
+    "icon": "https://etherscan.io/token/images/goldenratio_32.png"
+  },
+  {
+    "contract": "0x9e13A161e47f0450D8493cCBb078169A4247E3FB",
+    "icon": "https://etherscan.io/token/images/silverstandard_32.png"
+  },
+  {
+    "contract": "0xEc9B7035Dd6eBb847A05ce9FE9dC5f90f0E9f5B1",
+    "icon": "https://etherscan.io/token/images/bitcoinbronze_28.png"
+  }
+]
