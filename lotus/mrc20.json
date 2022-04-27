@@ -1,17 +1,17 @@
 [
   {
     "alias": "골드",
-    "contract": "0xe16A38E557b688422aeE8e6096A2aeeF73AC2511",
+    "contract": "0x29Bfe0A436D78Ff2D9D4168E0CC3247fE078A3f2",
     "icon": "https://etherscan.io/token/images/goldenratio_32.png"
   },
   {
     "alias": "실버",
-    "contract": "0x9e13A161e47f0450D8493cCBb078169A4247E3FB",
+    "contract": "0x33422B23Eb5bF8f5Ce1F918Dc410f950aAddEbA1",
     "icon": "https://etherscan.io/token/images/silverstandard_32.png"
   },
   {
     "alias": "브론즈",
-    "contract": "0xEc9B7035Dd6eBb847A05ce9FE9dC5f90f0E9f5B1",
+    "contract": "0x5322945c2dB19810E3081fE9f3140e52716a194f",
     "icon": "https://etherscan.io/token/images/bitcoinbronze_28.png"
   }
 ]
