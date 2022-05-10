@@ -2,16 +2,22 @@
   {
     "alias": "골드",
     "contract": "0x29Bfe0A436D78Ff2D9D4168E0CC3247fE078A3f2",
-    "icon": "https://etherscan.io/token/images/goldenratio_32.png"
+    "icon": "https://etherscan.io/token/images/goldenratio_32.png",
+    "symbol": "TGLD",
+    "decimal": "18"
   },
   {
     "alias": "실버",
     "contract": "0x33422B23Eb5bF8f5Ce1F918Dc410f950aAddEbA1",
-    "icon": "https://etherscan.io/token/images/silverstandard_32.png"
+    "icon": "https://etherscan.io/token/images/silverstandard_32.png",
+    "symbol": "TSLV",
+    "decimal": "8"
   },
   {
     "alias": "브론즈",
     "contract": "0x5322945c2dB19810E3081fE9f3140e52716a194f",
-    "icon": "https://etherscan.io/token/images/bitcoinbronze_28.png"
+    "icon": "https://etherscan.io/token/images/bitcoinbronze_28.png",
+    "symbol": "TBRZ",
+    "decimal": "0"
   }
 ]
