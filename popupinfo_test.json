@@ -30,15 +30,15 @@
     }
   },
   "general": {
-    "idx": 0,
+    "idx": 1,
     "type": "",
     "msg": {
-      "en": "",
-      "ko": ""
+      "en": "test notice",
+      "ko": "테스트 공지"
     },
     "url": {
-      "en": "",
-      "ko": ""
+      "en": "https://medium.com/metadium/metadium-non-circulating-wallet-integration-plan-a49c168e6101",
+      "ko": "https://medium.com/metadium/metadium-non-circulating-wallet-integration-plan-a49c168e6101"
     }
   }
 }
