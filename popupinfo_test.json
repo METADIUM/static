@@ -10,8 +10,8 @@
         "ko": "테스트 공지"
       },
       "url": {
-        "en": "",
-        "ko": ""
+        "en": "https://medium.com/metadium/metadium-non-circulating-wallet-integration-plan-a49c168e6101",
+        "ko": "https://medium.com/metadium/metadium-non-circulating-wallet-integration-plan-a49c168e6101"
       }
     },
     "iOS": {
@@ -24,21 +24,21 @@
         "ko": "테스트 공지"
       },
       "url": {
-        "en": "",
-        "ko": ""
+        "en": "https://medium.com/metadium/metadium-non-circulating-wallet-integration-plan-a49c168e6101",
+        "ko": "https://medium.com/metadium/metadium-non-circulating-wallet-integration-plan-a49c168e6101"
       }
     }
   },
   "general": {
-    "idx": 1,
+    "idx": 0,
     "type": "",
     "msg": {
-      "en": "test notice",
-      "ko": "테스트 공지"
+      "en": "",
+      "ko": ""
     },
     "url": {
-      "en": "https://medium.com/metadium/metadium-non-circulating-wallet-integration-plan-a49c168e6101",
-      "ko": "https://medium.com/metadium/metadium-non-circulating-wallet-integration-plan-a49c168e6101"
+      "en": "",
+      "ko": ""
     }
   }
 }
