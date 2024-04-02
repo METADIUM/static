@@ -1,7 +1,7 @@
 {
   "update": {
     "Android": {
-      "idx": 1,
+      "idx": 2,
       "type": "warning",
       "minVersion": "1.0.0",
       "currentVersion": "1.4.0",
